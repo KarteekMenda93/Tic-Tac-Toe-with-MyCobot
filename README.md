@@ -6,3 +6,7 @@ is generally used in two player turn games. Overall, this algorithm is used in g
 necessary logic of the above algorithm so that it can mimic the decision taken by the algorithm in its turn.
 
 https://www.youtube.com/watch?v=HL6Okvrt6iw
+
+Clearly Explained this in the below blog series
+https://medium.com/@karteekmenda93/tic-tac-toe-with-mycobot-part-1-71e9ab2f1432
+https://medium.com/@karteekmenda93/tic-tac-toe-with-mycobot-part-2-aba39fcf7811
