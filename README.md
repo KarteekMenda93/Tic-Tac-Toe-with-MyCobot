@@ -7,7 +7,9 @@ necessary logic of the above algorithm so that it can mimic the decision taken b
 
 https://www.youtube.com/watch?v=HL6Okvrt6iw
 
-Clearly Explained this in the below blog series
+Clearly Explained this in the below blog series:
+
+
 [Tic-tac-toe with MyCobot — Part 1](https://medium.com/@karteekmenda93/tic-tac-toe-with-mycobot-part-1-71e9ab2f1432)
 
 
