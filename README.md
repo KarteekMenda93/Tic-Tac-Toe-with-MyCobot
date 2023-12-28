@@ -8,5 +8,5 @@ necessary logic of the above algorithm so that it can mimic the decision taken b
 https://www.youtube.com/watch?v=HL6Okvrt6iw
 
 Clearly Explained this in the below blog series
-https://medium.com/@karteekmenda93/tic-tac-toe-with-mycobot-part-1-71e9ab2f1432
-https://medium.com/@karteekmenda93/tic-tac-toe-with-mycobot-part-2-aba39fcf7811
+[Tic-tac-toe with MyCobot — Part 1](https://medium.com/@karteekmenda93/tic-tac-toe-with-mycobot-part-1-71e9ab2f1432)
+[Tic-tac-toe with MyCobot — Part 2](https://medium.com/@karteekmenda93/tic-tac-toe-with-mycobot-part-2-aba39fcf7811)
